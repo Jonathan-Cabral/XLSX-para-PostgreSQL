@@ -1,16 +1,7 @@
 # Transferência de Excel para PostgreSQL
 
-Este programa permite automatizar a transferência de dados de múltiplos arquivos Excel para um banco de dados PostgreSQL. É especialmente útil para situações onde você precisa importar regularmente planilhas para um banco de dados PostgreSQL.
-
-## Índice
-1. [Requisitos](#requisitos)
-2. [Instalação](#instalação)
-3. [Configuração](#configuração)
-4. [Uso](#uso)
-5. [Personalização](#personalização)
-6. [Estrutura do Código](#estrutura-do-código)
-7. [Tratamento de Erros](#tratamento-de-erros)
-8. [Relatório de Processamento](#relatório-de-processamento)
+Este programa permite automatizar a transferência de dados de múltiplos arquivos Excel para um banco de dados PostgreSQL.
+É especialmente útil para situações onde você precisa importar regularmente planilhas para um banco de dados PostgreSQL.
 
 ## Requisitos
 
